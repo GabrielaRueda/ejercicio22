@@ -1,0 +1,143 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+38
+'¿Cual es el costo de la pelicula 1? '
+5
+1
+2
+p1
+4
+1
+38
+'¿Cual es el costo de la pelicula 2? '
+5
+1
+2
+p2
+4
+1
+38
+'¿Cual es el costo de la pelicula 3? '
+5
+1
+2
+p3
+7
+0
+1
+7
+p1 = p2
+7
+0
+1
+6
+p1> p2
+7
+0
+1
+6
+p2> p3
+6
+1
+1
+t
+6
+p1+ p2
+4
+1
+90
+'Las peliculas de menor precio son ', p1 ,' Y ', p2 ,' entonces su costo total es de:$', t
+13
+6
+1
+1
+t
+6
+p1+ p3
+4
+1
+89
+'Las peliculas de menor precio son ', p1 ,' Y ', p3 ,' entonces su costo total es de:$',t
+13
+13
+7
+0
+1
+6
+p1> p3
+6
+1
+1
+t
+7
+p1 + p2
+4
+1
+88
+'Las peliculas de menor precio son ', p1,' Y ', p2 ,' entonces su costo total es de:$',t
+13
+6
+1
+1
+t
+6
+p2+ p3
+4
+1
+89
+'Las peliculas de menor precio son ', p2 ,' Y ', p3 ,' entonces su costo total es de:$',t
+13
+13
+13
+7
+0
+1
+6
+p1= p3
+7
+0
+1
+6
+p1> p3
+6
+1
+1
+t
+6
+p1+ p2
+4
+1
+89
+'Las peliculas de menor precio son ', p1 ,' Y ', p2 ,' entonces su costo total es de:$',t
+13
+6
+1
+1
+t
+6
+p1+ p3
+4
+1
+89
+'Las peliculas de menor precio son ', p1 ,' Y ', p3 ,' entonces su costo total es de:$',t
+13
+13
+6
+1
+5
+igual
+6
+p1+ p2
+4
+1
+66
+ 'Las pelliculas tienen el mismo precio usted debe pagar:$', igual
+13
+13
+1
